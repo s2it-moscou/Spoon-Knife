@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Reporte de Bug ou problema
 about: Descreva aqui problema encontrado para que possamos corrigir
 
 ---
